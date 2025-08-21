@@ -1,4 +1,4 @@
-# Convex-Hull-on-a-Sphere-Advanced-Visualization-and-Analysis
+
 
 # Convex Hull on a Sphere: Advanced Visualization and Analysis
 
