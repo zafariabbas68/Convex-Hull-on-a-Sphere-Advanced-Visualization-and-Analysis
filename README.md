@@ -7,7 +7,10 @@
 This project provides a comprehensive implementation of convex hull computation and visualization on spherical surfaces. It offers advanced 3D and 2D visualizations with professional styling, interactive controls, and analytical capabilities for understanding spatial relationships of points on a sphere.
 # Convex Hull on a Sphere: Advanced Visualization and Analysis
 
-![3D Convex Hull Visualization](./Visualisation/convex_hull_analysis_3d_view_3_20250820_215429.png)
+![3D Convex Hull Visualization - View 1](./Visualisation/convex_hull_analysis_3d_view_1_20250820_215429.png)
+
+![3D Convex Hull Visualization - View 3](./Visualisation/convex_hull_analysis_3d_view_3_20250820_215429.png)
+
 
 
 ## 📋 Project Overview
